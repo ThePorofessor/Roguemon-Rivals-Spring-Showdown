@@ -74,7 +74,7 @@ At the end of each round, the top scoring players will get the opportunity to ad
 | **Draft with Phonics** | Drafts must be picked in alphabetical order | 1st Place | All Types |
 | **False Start** | All base game starters are banned from drafting | 1st Place | ![Fire](Resources/Fire.png) ![Grass](Resources/Grass.png) ![Water](Resources/Water.png) |
 | **Foster Care** | If a favorite is in the abandoned balls, you must take them | 1st Place | All Types |
-| **Insufficient Funds** | Ookemon with BST > 399 are banned from drafting | 1st Place | All Types |
+| **Insufficient Funds** | Pokemon with BST > 399 are banned from drafting | 1st Place | All Types |
 | **Late Bloomers** | Pokemon that would evo in the forest are banned from drafting | 1st Place | ![Bug](Resources/Bug.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fire](Resources/Fire.png) ![Flying](Resources/Flying.png) ![Grass](Resources/Grass.png) ![Normal](Resources/Normal.png) ![Poison](Resources/Poison.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
 | **Monoculture** | All dual tpying Pokemon are banned from drafting | 1st Place | ![Dragon](Resources/Dragon.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Fire](Resources/Fire.png) ![Grass](Resources/Grass.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
 | **Weekly Allowance** | Each player's draft may not exceed a BST Limit | 1st Place | All Types |
