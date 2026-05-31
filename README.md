@@ -1,4 +1,4 @@
-# Roguemon-Rivals-Spring-Showdown
+# Roguemon Rivals: Spring Showdown
 
 ### [ROUND OVERVIEW](#ROUND-OVERVIEW) | [DRAFTING](#DRAFTING-PHASE) | [PIVOTING](#PIVOTING-GUIDELINES) | [BOONS](#CHAMPION-BOONS) | [TIEBREAKERS](#TIEBREAKERS) | [PENALTIES](#PENALTY-MODIFIERS) | [PARTICIPANTS](#PARTICIPANTS) |  [DRAFT HISTORY](#DRAFT-HISTORY) | [RESOURCES](#RESOURCES) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
 
@@ -7,6 +7,8 @@
 Welcome to Roguemon Rivals 2026 Spring Showdown Community Tournament! This open community event is a Roguemon Rivals King of the Hill competition that challenges players to a free for all climb to the top. Each week competitors will fight in a single type to maintain the furthest runs to avoid getting cut from the competition until only the Champion remains.
 
 **If this is your first time playing Roguemon Rivals, more information on how to draft, how to pivot, and how to score your runs can be found on the original rules page ([OG Rules Page](https://github.com/ThePorofessor/Roguemon-Rivals/tree/main)).**
+
+![Bug Notice](Resources/Disclaimer.PNG)
 
 ---
 
