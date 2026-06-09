@@ -121,10 +121,38 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Name | How To Watch | Tournament Status |
 |:---:|---|---|
-|  |  |  |
-
+| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 1</p> |
+| <p align="center">Bolinbear</p> | <p align="center">[Twitch](https://www.twitch.tv/bolinbear)</p> | <p align="center">Round 1</p> |
+| <p align="center">Codevelopp</p> | <p align="center">[Twitch](https://www.twitch.tv/codevelopp)</p> | <p align="center">Round 1</p> |
+| <p align="center">Finnifinn</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
+| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 1</p> |
+| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 1</p> |
+| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 1</p> |
+| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 1</p> |
+| <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 1</p> |
+| <p align="center">UnrealPapa | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1</p> |
+| <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 1</p> |
 
 ---
+
+<h1 align="center">STANDINGS</h1>
+
+| Rank | Player | Personal Best (# of Trainers) |
+|:---:|---|---|
+| 1 | AmazingSpam | Lab |
+| 1 | Bolinbear | Lab |
+| 1 | Codevelopp | Lab |
+| 1 | Finnifinn | Lab |
+| 1 | Porofessor | Lab |
+| 1 | QP_Marcel | Lab |
+| 1 | Reilnur | Lab |
+| 1 | Roxee | Lab |
+| 1 | Slammer | Lab |
+| 1 | UnrealPapa | Lab |
+| 1 | ZogaOak | Lab |
+
+---
+
 
 <h1 align="center">DRAFT HISTORY</h1>
 
