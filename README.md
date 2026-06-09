@@ -13,7 +13,7 @@ Welcome to Roguemon Rivals 2026 Spring Showdown Community Tournament! This open 
 ---
 
 <h1 align="center">HOW TO JOIN</h1>
-Join our community [Discord]](https://discord.gg/uutypZMtTk) and emote on the tournament announcement or send my a DM on Discord (ThePorofessor) and I will get you the tournament role!
+Join our community [Discord](https://discord.gg/uutypZMtTk) and emote on the tournament announcement or send my a DM on Discord (ThePorofessor) and I will get you the tournament role!
 
 ---
 <h1 align="center">ROUND OVERVIEW</h1>
