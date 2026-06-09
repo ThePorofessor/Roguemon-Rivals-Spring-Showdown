@@ -8,7 +8,7 @@ Welcome to Roguemon Rivals 2026 Spring Showdown Community Tournament! This open 
 
 **If this is your first time playing Roguemon Rivals, more information on how to draft, how to pivot, and how to score your runs can be found on the original rules page ([OG Rules Page](https://github.com/ThePorofessor/Roguemon-Rivals/tree/main)).**
 
-## If you would like to join in the community event, [click here](https://discord.gg/uutypZMtTk) to join the Discord and emote on the tournament announcement!
+### If you would like to join in the community event, [click here](https://discord.gg/uutypZMtTk) to join the Discord and emote on the tournament announcement!
 
 ![Bug Notice](Resources/Disclaimer.PNG)
 
