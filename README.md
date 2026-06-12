@@ -146,21 +146,22 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Rank | Player | Personal Best (Tiebreakers) |
 |:---:|---|---|
 | 1 | Roxee | Misty (N/A) |
-| 1 | ZogaOak | Rival 3 (0/6 Pokemon) |
-| 1 | PixelMaster | Brock (1/6 Pokemon) |
-| 1 | Aitchkay | Lab |
-| 1 | AmazingSpam | Lab |
-| 1 | Bolinbear | Lab |
-| 1 | BonusDay | Lab |
-| 1 | Codevelopp | Lab |
-| 1 | Finnifinn | Lab |
-| 1 | Dkamp | Lab |
-| 1 | Porofessor | Lab |
-| 1 | Mason | Lab |
-| 1 | QP_Marcel | Lab |
-| 1 | Reilnur | Lab |
-| 1 | Slammer | Lab |
-| 1 | UnrealPapa | Lab |
+| 2 | ZogaOak | Rival 3 (0/6 Pokemon) |
+| 3 | PixelMaster | Brock (1/6 Pokemon) |
+| 4 | UnrealPapa | Forest (0/5 Trainers) |
+| 5 | Aitchkay | Lab |
+| 5 | AmazingSpam | Lab |
+| 5 | Bolinbear | Lab |
+| 5 | BonusDay | Lab |
+| 5 | Codevelopp | Lab |
+| 5 | Finnifinn | Lab |
+| 5 | Dkamp | Lab |
+| 5 | Porofessor | Lab |
+| 5 | Mason | Lab |
+| 5 | QP_Marcel | Lab |
+| 5 | Reilnur | Lab |
+| 5 | Slammer | Lab |
+
 | 1 | ZRBBPlays | Lab |
 
 ---
@@ -174,22 +175,22 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Player 1 | Favorite Picks | Universal Picks |
 |:---:|---|---|
 | Aitchkay | | |
-| AmazingSpam | <p align="center">![Rowlet](Resources/Rowlet.png) ![Starly](Resources/Starly.png) ![Mantyke](Resources/Mantyke.png) ![Farfetch'd](Resources/Farfetch'd.png) ![Fletchling](Resources/Fletchling.png) ![Doduo](Resources/Doduo.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
-| Bolinbear | <p align="center">![Drifloon](Resources/Drifloon.png) ![Natu](Resources/Natu.png) ![Woobat](Resources/Woobat.png) ![Farfetch'd](Resources/Farfetch'd.png) ![Rufflet](Resources/Rufflet.png) ![Hoppip](Resources/Hoppip.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
+| AmazingSpam | <p align="center">![Rowlet](Resources/rowlet.png) ![Starly](Resources/starly.png) ![Mantyke](Resources/mantyke.png) ![Farfetch'd](Resources/farfetch'd.png) ![Fletchling](Resources/fletchling.png) ![Doduo](Resources/doduo.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| Bolinbear | <p align="center">![Drifloon](Resources/drifloon.png) ![Natu](Resources/natu.png) ![Woobat](Resources/woobat.png) ![Farfetch'd](Resources/farfetch'd.png) ![Rufflet](Resources/rufflet.png) ![Hoppip](Resources/hoppip.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | BonusDay | | |
 | Codevelopp | | |
 | Finnifinn | | |
-| Dkamp | <p align="center">![Rowlet](Resources/Rowlet.png) ![Mantyke](Resources/Mantyke.png) ![Wattrel](Resources/Wattrel.png) ![Pikipek](Resources/Pikipek.png) ![Fletchling](Resources/Fletchling.png) ![Woobat](Resources/Woobat.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
-| PixelMaster | <p align="center">![Rowlet](Resources/Rowlet.png) ![Starly](Resources/Starly.png) ![Mantyke](Resources/Mantyke.png) ![Pikipek](Resources/Pikipek.png) ![Woobat](Resources/Woobat.png) ![Doduo](Resources/Doduo.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
-| Porofessor | <p align="center">![Rowlet](Resources/Rowlet.png) ![Rufflet](Resources/Rufflet.png) ![Pikipek](Resources/Pikipek.png) ![Hoppip](Resources/Hoppip.png) ![Natu](Resources/Natu.png) ![Farfetch'd](Resources/Farfetch'd.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
+| Dkamp | <p align="center">![Rowlet](Resources/rowlet.png) ![Mantyke](Resources/mantyke.png) ![Wattrel](Resources/wattrel.png) ![Pikipek](Resources/pikipek.png) ![Fletchling](Resources/fletchling.png) ![Woobat](Resources/woobat.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| PixelMaster | <p align="center">![Rowlet](Resources/rowlet.png) ![Starly](Resources/starly.png) ![Mantyke](Resources/mantyke.png) ![Pikipek](Resources/pikipek.png) ![Woobat](Resources/woobat.png) ![Doduo](Resources/doduo.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| Porofessor | <p align="center">![Rowlet](Resources/rowlet.png) ![Rufflet](Resources/rufflet.png) ![Pikipek](Resources/pikipek.png) ![Hoppip](Resources/hoppip.png) ![Natu](Resources/natu.png) ![Farfetch'd](Resources/farfetch'd.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | Mason | | |
-| QP_Marcel | <p align="center">![Rowlet](Resources/Rowlet.png) ![Rufflet](Resources/Rufflet.png) ![Pikipek](Resources/Pikipek.png) ![Mantyke](Resources/Mantyke.png) ![Fletchling](Resources/Fletchling.png) ![Farfetch'd](Resources/Farfetch'd.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
+| QP_Marcel | <p align="center">![Rowlet](Resources/rowlet.png) ![Rufflet](Resources/rufflet.png) ![Pikipek](Resources/pikipek.png) ![Mantyke](Resources/mantyke.png) ![Fletchling](Resources/fletchling.png) ![Farfetch'd](Resources/farfetch'd.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | Reilnur | | |
-| Roxee | <p align="center">![Rowlet](Resources/Rowlet.png) ![Mantyke](Resources/Mantyke.png) ![Rufflet](Resources/Rufflet.png) ![Fletchling](Resources/Fletchling.png) ![Pikipek](Resources/Pikipek.png) ![Woobat](Resources/Woobat.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
-| Slammer | <p align="center">![Rowlet](Resources/Rowlet.png) ![Wattrel](Resources/Wattrel.png) ![Starly](Resources/Starly.png) ![Fletchling](Resources/Fletchling.png) ![Pidgey](Resources/Pidgey.png) ![Pikipek](Resources/Pikipek.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
-| UnrealPapa | <p align="center">![Combee](Resources/Combee.png) ![Farfetch'd](Resources/Farfetch'd.png) ![Pikipek](Resources/Pikipek.png) ![Wingull](Resources/Wingull.png) ![Natu](Resources/Natu.png) ![Woobat](Resources/Woobat.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
-| ZogaOak | <p align="center">![Rowlet](Resources/Rowlet.png) ![Wattrel](Resources/Wattrel.png) ![Starly](Resources/Starly.png) ![Hoppip](Resources/Hoppip.png) ![Pidgey](Resources/Pidgey.png) ![Farfetch'd](Resources/Farfetch'd.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
-| ZRBBPlays | <p align="center">![Fletchling](Resources/Fletchling.png) ![Woobat](Resources/Woobat.png) ![Rookidee](Resources/Rookidee.png) ![Starly](Resources/Starly.png) ![Swablu](Resources/Swablu.png) ![Doduo](Resources/Doduo.png) | ![Yanma](Resources/Yanma.png) ![Ledyba](Resources/Ledyba.png) ![Delibird](Resources/Delibird.png) ![Noibat](Resources/Noibat.png) |
+| Roxee | <p align="center">![Rowlet](Resources/rowlet.png) ![Mantyke](Resources/mantyke.png) ![Rufflet](Resources/rufflet.png) ![Fletchling](Resources/fletchling.png) ![Pikipek](Resources/pikipek.png) ![Woobat](Resources/woobat.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| Slammer | <p align="center">![Rowlet](Resources/rowlet.png) ![Wattrel](Resources/wattrel.png) ![Starly](Resources/starly.png) ![Fletchling](Resources/fletchling.png) ![Pidgey](Resources/pidgey.png) ![Pikipek](Resources/pikipek.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| UnrealPapa | <p align="center">![Combee](Resources/combee.png) ![Farfetch'd](Resources/farfetch'd.png) ![Pikipek](Resources/pikipek.png) ![Wingull](Resources/wingull.png) ![Natu](Resources/natu.png) ![Woobat](Resources/woobat.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| ZogaOak | <p align="center">![Rowlet](Resources/rowlet.png) ![Wattrel](Resources/wattrel.png) ![Starly](Resources/starly.png) ![Hoppip](Resources/hoppip.png) ![Pidgey](Resources/pidgey.png) ![Farfetch'd](Resources/farfetch'd.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| ZRBBPlays | <p align="center">![Fletchling](Resources/fletchling.png) ![Woobat](Resources/woobat.png) ![Rookidee](Resources/rookidee.png) ![Starly](Resources/starly.png) ![Swablu](Resources/swablu.png) ![Doduo](Resources/doduo.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 
 </details>
 
