@@ -14,7 +14,7 @@ Welcome to Roguemon Rivals 2026 Spring Showdown Community Tournament! This open 
 
 <h1 align="center">HOW TO JOIN</h1>
 
-Join our [Community Discord](https://discord.gg/uutypZMtTk) and emote on the tournament announcement or send me a DM on Discord (ThePorofessor) and I will get you the tournament role!
+Join our [Community Discord](https://discord.gg/uutypZMtTk) and emote on the tournament announcement or send me a DM on Discord (ThePorofessor) and I will get you the tournament role! Anyone can join until Round 1 ends (June 17th at 11:59 PM). Once round 1 ends the bottom of the leaderboard will be cut and admission will be closed.
 
 ---
 <h1 align="center">ROUND OVERVIEW</h1>
