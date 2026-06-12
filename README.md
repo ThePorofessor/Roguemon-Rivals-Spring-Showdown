@@ -151,19 +151,19 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 3 | ZogaOak | Rival 3 (0/6 Pokemon) |
 | 4 | Bolinbear | Mt Moon (9/12 Trainers) |
 | 5 | PixelMaster | Brock (1/6 Pokemon) |
-| 6 | UnrealPapa | Forest (1/5 Trainers) |
-| 7 | Aitchkay | Lab |
-| 7 | AmazingSpam | Lab |
-| 7 | BonusDay | Lab |
-| 7 | Codevelopp | Lab |
-| 7 | Dkamp | Lab |
-| 7 | Finnifinn | Lab |
-| 7 | Mason | Lab |
-| 7 | QP_Marcel | Lab |
-| 7 | Reilnur | Lab |
-| 7 | Slammer | Lab |
-| 7 | UceyChimchar | Lab |
-| 7 | ZRBPlays | Lab |
+| 5 | Reilnur | Brock (1/6) |
+| 7 | UceyChimchar | Rival 2 (N/A) |
+| 8 | UnrealPapa | Forest (1/5 Trainers) |
+| 9 | Aitchkay | Lab |
+| 9 | AmazingSpam | Lab |
+| 9 | BonusDay | Lab |
+| 9 | Codevelopp | Lab |
+| 9 | Dkamp | Lab |
+| 9 | Finnifinn | Lab |
+| 9 | Mason | Lab |
+| 9 | QP_Marcel | Lab |
+| 9 | Slammer | Lab |
+| 9 | ZRBPlays | Lab |
 
 ---
 
