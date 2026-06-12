@@ -147,21 +147,21 @@ A penalty modifier increases your overall seed count if a specific condition is 
 |:---:|---|---|
 | 1 | Roxee | Misty (N/A) |
 | 2 | ZogaOak | Rival 3 (0/6 Pokemon) |
-| 3 | PixelMaster | Brock (1/6 Pokemon) |
-| 4 | UnrealPapa | Forest (1/5 Trainers) |
-| 5 | Aitchkay | Lab |
-| 5 | AmazingSpam | Lab |
-| 5 | Bolinbear | Lab |
-| 5 | BonusDay | Lab |
-| 5 | Codevelopp | Lab |
-| 5 | Finnifinn | Lab |
-| 5 | Dkamp | Lab |
-| 5 | Porofessor | Lab |
-| 5 | Mason | Lab |
-| 5 | QP_Marcel | Lab |
-| 5 | Reilnur | Lab |
-| 5 | Slammer | Lab |
-| 1 | ZRBPlays | Lab |
+| 3 | Bolinbear | Mt Moon (9/12 Trainers) |
+| 4 | PixelMaster | Brock (1/6 Pokemon) |
+| 5 | UnrealPapa | Forest (1/5 Trainers) |
+| 6 | Aitchkay | Lab |
+| 6 | AmazingSpam | Lab |
+| 6 | BonusDay | Lab |
+| 6 | Codevelopp | Lab |
+| 6 | Dkamp | Lab |
+| 6 | Finnifinn | Lab |
+| 6 | Mason | Lab |
+| 6 | Porofessor | Lab |
+| 6 | QP_Marcel | Lab |
+| 6 | Reilnur | Lab |
+| 6 | Slammer | Lab |
+| 6 | ZRBPlays | Lab |
 
 ---
 
@@ -178,11 +178,11 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Bolinbear | <p align="center">![Drifloon](Resources/drifloon.png) ![Natu](Resources/natu.png) ![Woobat](Resources/woobat.png) ![Farfetch'd](Resources/farfetch'd.png) ![Rufflet](Resources/rufflet.png) ![Hoppip](Resources/hoppip.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | BonusDay | | |
 | Codevelopp | | |
-| Finnifinn | | |
 | Dkamp | <p align="center">![Rowlet](Resources/rowlet.png) ![Mantyke](Resources/mantyke.png) ![Wattrel](Resources/wattrel.png) ![Pikipek](Resources/pikipek.png) ![Fletchling](Resources/fletchling.png) ![Woobat](Resources/woobat.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| Finnifinn | | |
 | PixelMaster | <p align="center">![Rowlet](Resources/rowlet.png) ![Starly](Resources/starly.png) ![Mantyke](Resources/mantyke.png) ![Pikipek](Resources/pikipek.png) ![Woobat](Resources/woobat.png) ![Doduo](Resources/doduo.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
-| Porofessor | <p align="center">![Rowlet](Resources/rowlet.png) ![Rufflet](Resources/rufflet.png) ![Pikipek](Resources/pikipek.png) ![Hoppip](Resources/hoppip.png) ![Natu](Resources/natu.png) ![Farfetch'd](Resources/farfetch'd.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | Mason | | |
+| Porofessor | <p align="center">![Rowlet](Resources/rowlet.png) ![Rufflet](Resources/rufflet.png) ![Pikipek](Resources/pikipek.png) ![Hoppip](Resources/hoppip.png) ![Natu](Resources/natu.png) ![Farfetch'd](Resources/farfetch'd.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | QP_Marcel | <p align="center">![Rowlet](Resources/rowlet.png) ![Rufflet](Resources/rufflet.png) ![Pikipek](Resources/pikipek.png) ![Mantyke](Resources/mantyke.png) ![Fletchling](Resources/fletchling.png) ![Farfetch'd](Resources/farfetch'd.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | Reilnur | | |
 | Roxee | <p align="center">![Rowlet](Resources/rowlet.png) ![Mantyke](Resources/mantyke.png) ![Rufflet](Resources/rufflet.png) ![Fletchling](Resources/fletchling.png) ![Pikipek](Resources/pikipek.png) ![Woobat](Resources/woobat.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
