@@ -148,7 +148,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 1 | Roxee | Misty (N/A) |
 | 2 | ZogaOak | Rival 3 (0/6 Pokemon) |
 | 3 | PixelMaster | Brock (1/6 Pokemon) |
-| 4 | UnrealPapa | Forest (0/5 Trainers) |
+| 4 | UnrealPapa | Forest (1/5 Trainers) |
 | 5 | Aitchkay | Lab |
 | 5 | AmazingSpam | Lab |
 | 5 | Bolinbear | Lab |
