@@ -135,6 +135,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 1</p> |
 | <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 1</p> |
 | <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 1</p> |
+| <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1</p> |
 | <p align="center">UnrealPapa | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1</p> |
 | <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 1</p> |
 | <p align="center">ZRBPlays</p> | <p align="center">[Twitch](https://www.twitch.tv/zrbplaystv)</p> | <p align="center">Round 1</p> |
@@ -145,23 +146,24 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) |
 |:---:|---|---|
-| 1 | Roxee | Misty (N/A) |
-| 2 | ZogaOak | Rival 3 (0/6 Pokemon) |
-| 3 | Bolinbear | Mt Moon (9/12 Trainers) |
-| 4 | PixelMaster | Brock (1/6 Pokemon) |
-| 5 | UnrealPapa | Forest (1/5 Trainers) |
-| 6 | Aitchkay | Lab |
-| 6 | AmazingSpam | Lab |
-| 6 | BonusDay | Lab |
-| 6 | Codevelopp | Lab |
-| 6 | Dkamp | Lab |
-| 6 | Finnifinn | Lab |
-| 6 | Mason | Lab |
-| 6 | Porofessor | Lab |
-| 6 | QP_Marcel | Lab |
-| 6 | Reilnur | Lab |
-| 6 | Slammer | Lab |
-| 6 | ZRBPlays | Lab |
+| 1 | Porofessor | Route 8 |
+| 2 | Roxee | Misty (N/A) |
+| 3 | ZogaOak | Rival 3 (0/6 Pokemon) |
+| 4 | Bolinbear | Mt Moon (9/12 Trainers) |
+| 5 | PixelMaster | Brock (1/6 Pokemon) |
+| 6 | UnrealPapa | Forest (1/5 Trainers) |
+| 7 | Aitchkay | Lab |
+| 7 | AmazingSpam | Lab |
+| 7 | BonusDay | Lab |
+| 7 | Codevelopp | Lab |
+| 7 | Dkamp | Lab |
+| 7 | Finnifinn | Lab |
+| 7 | Mason | Lab |
+| 7 | QP_Marcel | Lab |
+| 7 | Reilnur | Lab |
+| 7 | Slammer | Lab |
+| 7 | UceyChimchar | Lab |
+| 7 | ZRBPlays | Lab |
 
 ---
 
@@ -187,6 +189,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Reilnur | | |
 | Roxee | <p align="center">![Rowlet](Resources/rowlet.png) ![Mantyke](Resources/mantyke.png) ![Rufflet](Resources/rufflet.png) ![Fletchling](Resources/fletchling.png) ![Pikipek](Resources/pikipek.png) ![Woobat](Resources/woobat.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | Slammer | <p align="center">![Rowlet](Resources/rowlet.png) ![Wattrel](Resources/wattrel.png) ![Starly](Resources/starly.png) ![Fletchling](Resources/fletchling.png) ![Pidgey](Resources/pidgey.png) ![Pikipek](Resources/pikipek.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
+| UceyChimchar | | |
 | UnrealPapa | <p align="center">![Combee](Resources/combee.png) ![Farfetch'd](Resources/farfetch'd.png) ![Pikipek](Resources/pikipek.png) ![Wingull](Resources/wingull.png) ![Natu](Resources/natu.png) ![Woobat](Resources/woobat.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | ZogaOak | <p align="center">![Rowlet](Resources/rowlet.png) ![Wattrel](Resources/wattrel.png) ![Starly](Resources/starly.png) ![Hoppip](Resources/hoppip.png) ![Pidgey](Resources/pidgey.png) ![Farfetch'd](Resources/farfetch'd.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | ZRBBPlays | <p align="center">![Fletchling](Resources/fletchling.png) ![Woobat](Resources/woobat.png) ![Rookidee](Resources/rookidee.png) ![Starly](Resources/starly.png) ![Swablu](Resources/swablu.png) ![Doduo](Resources/doduo.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
