@@ -148,10 +148,10 @@ A penalty modifier increases your overall seed count if a specific condition is 
 |:---:|---|---|
 | 1 | Porofessor | Route 8 |
 | 2 | Roxee | Misty (N/A) |
-| 3 | ZogaOak | Rival 3 (0/6 Pokemon) |
-| 4 | Bolinbear | Mt Moon (9/12 Trainers) |
-| 5 | PixelMaster | Brock (1/6 Pokemon) |
-| 5 | Reilnur | Brock (1/6) |
+| 3 | Reilnur | Route 24 & 25 |
+| 4 | ZogaOak | Rival 3 (0/6 Pokemon) |
+| 5 | Bolinbear | Mt Moon (9/12 Trainers) |
+| 6 | PixelMaster | Brock (1/6 Pokemon) |
 | 7 | UceyChimchar | Rival 2 (N/A) |
 | 8 | UnrealPapa | Forest (1/5 Trainers) |
 | 9 | Aitchkay | Lab |
