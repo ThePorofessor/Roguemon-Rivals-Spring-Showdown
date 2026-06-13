@@ -148,22 +148,22 @@ A penalty modifier increases your overall seed count if a specific condition is 
 |:---:|---|---|
 | 1 | Porofessor | Cycling Road (20/21 Trainers) |
 | 2 | Aitchkay | Erika (4/8 Trainers) |
-| 3 | QP_Marcel | Surge (3/6 Pokemon) |
-| 4 | PixelMaster | Route 6 & 11 |
-| 5 | Roxee | Misty (4/6 Pokemon) |
-| 6 | Reilnur | Route 24 & 25 |
+| 3 | Reilnur | Rock Tunnel (2/19 Trainers) |
+| 4 | QP_Marcel | Surge (4/6 Pokemon) |
+| 5 | PixelMaster | Route 6 & 11 |
+| 6 | Roxee | Misty (4/6 Pokemon) |
 | 7 | ZogaOak | Rival 3 (0/6 Pokemon) |
 | 8 | Bolinbear | Mt Moon (9/12 Trainers) |
 | 9 | UceyChimchar | Mt Moon (2/12 Trainers) |
-| 10 | ZRBPlays | Brock (4/6 Pokemon) |
-| 11 | AmazingSpam | Forest (4/5 Trainers) |
-| 12 | UnrealPapa | Forest (1/5 Trainers) |
-| 13 | BonusDay | Lab |
-| 13 | Codevelopp | Lab |
-| 13 | Dkamp | Lab |
-| 13 | Finnifinn | Lab |
-| 13 | Mason | Lab |
-| 13 | Slammer | Lab |
+| 10 | ZRBPlays | Brock (5/6 Pokemon) |
+| 11 | Finnifinn | Brock (3/6 Pokemon) |
+| 12 | AmazingSpam | Forest (4/5 Trainers) |
+| 13 | UnrealPapa | Forest (1/5 Trainers) |
+| 14 | BonusDay | Lab |
+| 14 | Codevelopp | Lab |
+| 14 | Dkamp | Lab |
+| 14 | Mason | Lab |
+| 14 | Slammer | Lab |
 
 
 ---
@@ -176,10 +176,10 @@ A penalty modifier increases your overall seed count if a specific condition is 
   
 | Player 1 | Favorite Picks | Universal Picks |
 |:---:|---|---|
-| Aitchkay | | |
+| Aitchkay | <p align="center">![Rowlet](Resources/rowlet.png) ![Pikipek](Resources/pikipek.png) ![Fletchling](Resources/fletchling.png) ![Wattrel](Resources/wattrel.png) ![Doduo](Resources/doduo.png) ![Natu](Resources/natu.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | AmazingSpam | <p align="center">![Rowlet](Resources/rowlet.png) ![Starly](Resources/starly.png) ![Mantyke](Resources/mantyke.png) ![Farfetch'd](Resources/farfetch'd.png) ![Fletchling](Resources/fletchling.png) ![Doduo](Resources/doduo.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | Bolinbear | <p align="center">![Drifloon](Resources/drifloon.png) ![Natu](Resources/natu.png) ![Woobat](Resources/woobat.png) ![Farfetch'd](Resources/farfetch'd.png) ![Rufflet](Resources/rufflet.png) ![Hoppip](Resources/hoppip.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
-| BonusDay | | |
+| BonusDay | <p align="center">![Vullaby](Resources/vullaby.png) ![Rufflet](Resources/rufflet.png) ![Pikipek](Resources/pikipek.png) ![Farfetch'd](Resources/farfetch'd.png) ![Woobat](Resources/woobat.png) ![Natu](Resources/natu.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | Codevelopp | | |
 | Dkamp | <p align="center">![Rowlet](Resources/rowlet.png) ![Mantyke](Resources/mantyke.png) ![Wattrel](Resources/wattrel.png) ![Pikipek](Resources/pikipek.png) ![Fletchling](Resources/fletchling.png) ![Woobat](Resources/woobat.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
 | Finnifinn | <p align="center">![Starly](Resources/starly.png) ![Farfetch'd](Resources/farfetch'd.png) ![Rufflet](Resources/rufflet.png) ![Wattrel](Resources/wattrel.png) ![Woobat](Resources/woobat.png) ![Pidgey](Resources/pidgey.png) | ![Yanma](Resources/yanma.png) ![Ledyba](Resources/ledyba.png) ![Delibird](Resources/delibird.png) ![Noibat](Resources/noibat.png) |
