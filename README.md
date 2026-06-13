@@ -87,7 +87,7 @@ At the end of each round, the top scoring players will get the opportunity to ad
 | **Weekly Allowance** | Each player's draft may not exceed a BST Limit | 1st Place | All Types |
 | | | | |
 | **Babysitting** | At least one of your favorites must be a sub-300 BST Pokemon | 2nd Place | All Types |
-| **Bougie** | Every player must draft a roguestone evolution first | 2nd Place | All Types |
+| **Bougie** | Every player must draft a roguestone evolution | 2nd Place | All Types |
 | **Collapsed Mine** | Pokemon that utilize Roguestone Evolutions are banned from drafting | 2nd Place | ![Dark](Resources/Dark.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Fire](Resources/Fire.png) ![Flying](Resources/Flying.png) ![Ghost](Resources/Ghost.png) ![Grass](Resources/Grass.png) ![Ground](Resources/Ground.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Rock](Resources/Rock.png) ![Water](Resources/Water.png) |
 | **Feel the Rainbow** | Every Player's draft must have at least 3 unique types | 2nd Place | All Types |
 | **Influencer** | All players must draft a favorite of your choice | 2nd Place | All Types |
