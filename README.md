@@ -146,24 +146,24 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) |
 |:---:|---|---|
-| 1 | Porofessor | Route 8 |
-| 2 | Roxee | Misty (4/6 Pokemon) |
-| 3 | Reilnur | Route 24 & 25 |
-| 4 | ZogaOak | Rival 3 (0/6 Pokemon) |
-| 5 | Bolinbear | Mt Moon (9/12 Trainers) |
-| 6 | ZRBPlays | Brock (4/6 Pokemon) |
-| 7 | PixelMaster | Brock (1/6 Pokemon) |
-| 8 | UceyChimchar | Rival 2 (N/A) |
-| 9 | AmazingSpam | Forest (4/5 Trainers) |
-| 11 | UnrealPapa | Forest (1/5 Trainers) |
-| 11 | Aitchkay | Lab |
-| 11 | BonusDay | Lab |
-| 11 | Codevelopp | Lab |
-| 11 | Dkamp | Lab |
-| 11 | Finnifinn | Lab |
-| 11 | Mason | Lab |
-| 11 | QP_Marcel | Lab |
-| 11 | Slammer | Lab |
+| 1 | Porofessor | Cycling Road (20/21 Trainers) |
+| 2 | Aitchkay | Erika (4/8 Trainers) |
+| 3 | QP_Marcel | Surge (3/6 Pokemon) |
+| 4 | Roxee | Misty (4/6 Pokemon) |
+| 5 | Reilnur | Route 24 & 25 |
+| 6 | ZogaOak | Rival 3 (0/6 Pokemon) |
+| 7 | Bolinbear | Mt Moon (9/12 Trainers) |
+| 8 | ZRBPlays | Brock (4/6 Pokemon) |
+| 9 | PixelMaster | Brock (1/6 Pokemon) |
+| 10 | UceyChimchar | Rival 2 (N/A) |
+| 11 | AmazingSpam | Forest (4/5 Trainers) |
+| 12 | UnrealPapa | Forest (1/5 Trainers) |
+| 13 | BonusDay | Lab |
+| 13 | Codevelopp | Lab |
+| 13 | Dkamp | Lab |
+| 13 | Finnifinn | Lab |
+| 13 | Mason | Lab |
+| 13 | Slammer | Lab |
 
 
 ---
