@@ -149,13 +149,13 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 1 | Porofessor | Cycling Road (20/21 Trainers) |
 | 2 | Aitchkay | Erika (4/8 Trainers) |
 | 3 | QP_Marcel | Surge (3/6 Pokemon) |
-| 4 | Roxee | Misty (4/6 Pokemon) |
-| 5 | Reilnur | Route 24 & 25 |
-| 6 | ZogaOak | Rival 3 (0/6 Pokemon) |
-| 7 | Bolinbear | Mt Moon (9/12 Trainers) |
-| 8 | ZRBPlays | Brock (4/6 Pokemon) |
-| 9 | PixelMaster | Brock (1/6 Pokemon) |
-| 10 | UceyChimchar | Rival 2 (N/A) |
+| 4 | PixelMaster | Route 6 & 11 |
+| 5 | Roxee | Misty (4/6 Pokemon) |
+| 6 | Reilnur | Route 24 & 25 |
+| 7 | ZogaOak | Rival 3 (0/6 Pokemon) |
+| 8 | Bolinbear | Mt Moon (9/12 Trainers) |
+| 9 | UceyChimchar | Mt Moon (2/12 Trainers) |
+| 10 | ZRBPlays | Brock (4/6 Pokemon) |
 | 11 | AmazingSpam | Forest (4/5 Trainers) |
 | 12 | UnrealPapa | Forest (1/5 Trainers) |
 | 13 | BonusDay | Lab |
