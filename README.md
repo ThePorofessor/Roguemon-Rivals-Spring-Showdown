@@ -35,7 +35,7 @@ At the start of each round all participants will vote on universal picks that al
 
 <h1 align="center">PIVOTING GUIDELINES</h1>
 
-Pivoting is dictated by what you drafted. Unlike the classic ruleset for Roguemon Rivals, King of the Hill does not require the abandoned balls. **Repeat everyone can scout for their favorites!** Since scouting is allowed, you can ONLY run your favorite pokemon. Undrafted Poekmon can be used up until the first trainer, but cannot be used as a runner. Nemesis Pokemon are are banned outside of the lab. With that in mind, the lab rules are:
+Pivoting is dictated by what you drafted. Unlike the classic ruleset for Roguemon Rivals, King of the Hill does not require the abandoned balls. **Repeat everyone can scout for their favorites!** Since scouting is allowed, you can ONLY run your favorite pokemon. Undrafted Pokemon can be used up until the first trainer, but cannot be used as a runner. Nemesis Pokemon are are banned outside of the lab. With that in mind, the lab rules are:
 
 ### Lab Priorities:
 1.	You must select a drafted pokemon (Universal or Your Favorite)
@@ -83,7 +83,7 @@ At the end of each round, the top scoring players will get the opportunity to ad
 | **Foster Care** | If a favorite is in the abandoned balls, you must take them | 1st Place | All Types |
 | **Insufficient Funds** | Pokemon with BST > 399 are banned from drafting | 1st Place | All Types |
 | **Late Bloomers** | Pokemon that would evo in the forest are banned from drafting | 1st Place | ![Bug](Resources/Bug.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fire](Resources/Fire.png) ![Flying](Resources/Flying.png) ![Grass](Resources/Grass.png) ![Normal](Resources/Normal.png) ![Poison](Resources/Poison.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
-| **Monoculture** | All dual tpying Pokemon are banned from drafting | 1st Place | ![Dragon](Resources/Dragon.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Fire](Resources/Fire.png) ![Grass](Resources/Grass.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
+| **Monoculture** | All dual typing Pokemon are banned from drafting | 1st Place | ![Dragon](Resources/Dragon.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Fire](Resources/Fire.png) ![Grass](Resources/Grass.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
 | **Weekly Allowance** | Each player's draft may not exceed a BST Limit | 1st Place | All Types |
 | | | | |
 | **Babysitting** | At least one of your favorites must be a sub-300 BST Pokemon | 2nd Place | All Types |
