@@ -159,7 +159,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 11 | UceyChimchar | Mt Moon (2/12 Trainers) | Yes |
 | 12 | ZRBPlays | Brock (5/6 Pokemon) | Yes |
 | 13 | Finnifinn | Brock (3/6 Pokemon) | Yes |
-| 14 | UnrealPapa | Brock (0/6) | Yes |
+| 14 | UnrealPapa | Brock (1/6) | Yes |
 | 15 | AmazingSpam | Forest (4/5 Trainers) | Yes |
 | 16 | Codevelopp | Lab | Yes |
 | 16 | Dkamp | Lab | Yes |
