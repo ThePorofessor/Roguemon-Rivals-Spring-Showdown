@@ -156,7 +156,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 8 | Mason | Rival 3 (3/4 Pokemon | Yes |
 | 9 | ZogaOak | Rival 3 (0/4 Pokemon) | No |
 | | | | |
-|<p align="center">![Line](Resources/Line.png) </p> |<p align="center">![Elimination](Resources/Elimination.png) </p> |<p align="center">![Threshold](Resources/Threshold.png) </p> | <p align="center">![Line](Resources/Line.png) </p>|
+|<p align="center">![Line](Resources/Line.PNG) </p> |<p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p> | <p align="center">![Line](Resources/Line.PNG) </p>|
 | | | | |
 | 10 | Bolinbear | Mt Moon (9/12 Trainers) | Yes |
 | 11 | UceyChimchar | Mt Moon (2/12 Trainers) | Yes |
