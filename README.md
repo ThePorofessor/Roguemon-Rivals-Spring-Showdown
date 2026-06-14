@@ -144,27 +144,26 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 <h1 align="center">STANDINGS</h1>
 
-| Rank | Player | Personal Best (Tiebreakers) |
-|:---:|---|---|
-| 1 | Porofessor | Cycling Road (20/21 Trainers) |
-| 2 | Aitchkay | Erika (4/8 Trainers) |
-| 3 | Reilnur | Rock Tunnel (2/19 Trainers) |
-| 4 | QP_Marcel | Surge (4/6 Pokemon) |
-| 5 | PixelMaster | Route 6 & 11 |
-| 6 | Roxee | Misty (4/6 Pokemon) |
-| 7 | ZogaOak | Rival 3 (0/6 Pokemon) |
-| 8 | Bolinbear | Mt Moon (9/12 Trainers) |
-| 9 | UceyChimchar | Mt Moon (2/12 Trainers) |
-| 10 | ZRBPlays | Brock (5/6 Pokemon) |
-| 11 | Finnifinn | Brock (3/6 Pokemon) |
-| 12 | AmazingSpam | Forest (4/5 Trainers) |
-| 13 | UnrealPapa | Forest (1/5 Trainers) |
-| 14 | BonusDay | Lab |
-| 14 | Codevelopp | Lab |
-| 14 | Dkamp | Lab |
-| 14 | Mason | Lab |
-| 14 | Slammer | Lab |
-
+| Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
+|:---:|---|---|---|
+| 1 | Porofessor | Silph Co (11/21 Trainers) | Yes |
+| 2 | Aitchkay | Erika (4/8 Trainers) | Yes |
+| 3 | Reilnur | Rock Tunnel (2/19 Trainers) | No |
+| 4 | QP_Marcel | Surge (4/6 Pokemon) | No |
+| 5 | PixelMaster | Route 6 & 11 | Yes |
+| 6 | Roxee | Misty (4/6 Pokemon) | Yes |
+| 7 | BonusDay | Misty (3/6 Pokemon) | Yes |
+| 8 | Mason | Rival 3 (3/4 Pokemon | Yes |
+| 9 | ZogaOak | Rival 3 (0/4 Pokemon) | No |
+| 10 | Bolinbear | Mt Moon (9/12 Trainers) | Yes |
+| 11 | UceyChimchar | Mt Moon (2/12 Trainers) | Yes |
+| 12 | ZRBPlays | Brock (5/6 Pokemon) | Yes |
+| 13 | Finnifinn | Brock (3/6 Pokemon) | Yes |
+| 14 | UnrealPapa | Brock (0/6) | Yes |
+| 15 | AmazingSpam | Forest (4/5 Trainers) | Yes |
+| 16 | Codevelopp | Lab | Yes |
+| 16 | Dkamp | Lab | Yes |
+| 16 | Slammer | Lab | Yes |
 
 ---
 
