@@ -162,7 +162,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 11 | <p align="center"> Dkamp </p> | <p align="center"> Mt Moon (10/12 Trainers) </p> | <p align="center"> Yes </p> |
 | 12 | <p align="center"> Bolinbear </p> | <p align="center"> Mt Moon (9/12 Trainers) </p> | <p align="center"> No </p> |
 | 13 | <p align="center"> UceyChimchar </p> | <p align="center"> Mt Moon (2/12 Trainers) </p> | <p align="center"> No </p> |
-| 14 | <p align="center"> UnrealPapa </p> | <p align="center"> Brock (5/6) </p> | <p align="center"> Yes </p> |
+| 14 | <p align="center"> UnrealPapa </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
 | 14 | <p align="center"> Slammer </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
 | 14 | <p align="center"> ZRBPlays </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
 | 17 | <p align="center"> Finnifinn </p> | <p align="center"> Brock (3/6 Pokemon) </p> | <p align="center"> Yes </p> |
