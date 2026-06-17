@@ -153,7 +153,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 5 | <p align="center"> Reilnur </p> | <p align="center"> Rock Tunnel (2/19 Trainers) </p> | <p align="center"> No </p> |
 | 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Surge (4/6 Pokemon) </p> | <p align="center"> No </p> |
 | 7 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
-| 8 | <p align="center"> Roxee </p> | <p align="center"> Misty (4/6 Pokemon) </p> | <p align="center"> No </p> |
+| 8 | <p align="center"> Roxee </p> | <p align="center"> Misty (5/6 Pokemon) </p> | <p align="center"> No </p> |
 | 9 | <p align="center"> BonusDay </p> | <p align="center"> Misty (3/6 Pokemon) </p> | <p align="center"> Yes </p> |
 | | | | |
 |<p align="center">![Line](Resources/Line.PNG) </p> |<p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p> | <p align="center">![Line](Resources/Line.PNG) </p>|
