@@ -149,7 +149,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 1 | <p align="center"> Mason </p> | <p align="center"> Silph Co </p> | <p align="center"> Yes </p> |
 | 2 | <p align="center"> Porofessor </p> | <p align="center"> Silph Co (11/21 Trainers) </p> | <p align="center"> Yes </p> |
 | 3 | <p align="center"> PixelMaster </p> | <p align="center"> Koga (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
-| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Erika (4/8 Trainers) </p> | <p align="center"> Yes </p> |
+| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Erika (4/8 Trainers) </p> | <p align="center"> No </p> |
 | 5 | <p align="center"> Reilnur </p> | <p align="center"> Rock Tunnel (2/19 Trainers) </p> | <p align="center"> No </p> |
 | 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Surge (4/6 Pokemon) </p> | <p align="center"> No </p> |
 | 7 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
@@ -162,7 +162,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 11 | <p align="center"> Dkamp </p> | <p align="center"> Mt Moon (10/12 Trainers) </p> | <p align="center"> Yes </p> |
 | 12 | <p align="center"> Bolinbear </p> | <p align="center"> Mt Moon (9/12 Trainers) </p> | <p align="center"> No </p> |
 | 13 | <p align="center"> UceyChimchar </p> | <p align="center"> Mt Moon (2/12 Trainers) </p> | <p align="center"> No </p> |
-| 14 | <p align="center"> UnrealPapa </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
+| 14 | <p align="center"> UnrealPapa </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> No </p> |
 | 14 | <p align="center"> Slammer </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
 | 14 | <p align="center"> ZRBPlays </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
 | 17 | <p align="center"> Finnifinn </p> | <p align="center"> Brock (3/6 Pokemon) </p> | <p align="center"> Yes </p> |
