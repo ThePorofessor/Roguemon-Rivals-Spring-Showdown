@@ -146,7 +146,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center"> Mason </p> | <p align="center"> Silph Co </p> | <p align="center"> Yes </p> |
+| 1 | <p align="center"> Mason </p> | <p align="center"> Blaine (1/6) </p> | <p align="center"> Yes </p> |
 | 2 | <p align="center"> Porofessor </p> | <p align="center"> Silph Co (11/21 Trainers) </p> | <p align="center"> Yes </p> |
 | 3 | <p align="center"> PixelMaster </p> | <p align="center"> Koga (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
 | 4 | <p align="center"> Aitchkay </p> | <p align="center"> Erika (4/8 Trainers) </p> | <p align="center"> No </p> |
