@@ -154,7 +154,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Surge (4/6 Pokemon) </p> | <p align="center"> No </p> |
 | 7 | <p align="center"> Roxee </p> | <p align="center"> Misty (5/6 Pokemon - Seed 9) </p> | <p align="center"> No </p> |
 | 8 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (5/6 Pokemon - Seed 34) </p> | <p align="center"> Yes </p> |
-| 9 | <p align="center"> Slammer </p> | <p align="center"> Brock (5/6 Pokemon - Seed 41) </p> | <p align="center"> Yes </p> |
+| 9 | <p align="center"> Slammer </p> | <p align="center"> Misty (5/6 Pokemon - Seed 41) </p> | <p align="center"> Yes </p> |
 | | | | |
 |<p align="center">![Line](Resources/Line.PNG) </p> |<p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p> | <p align="center">![Line](Resources/Line.PNG) </p>|
 | | | | |
