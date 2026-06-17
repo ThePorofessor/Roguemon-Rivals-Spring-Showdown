@@ -165,7 +165,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 14 | <p align="center"> UnrealPapa </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> No </p> |
 | 14 | <p align="center"> Slammer </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
 | 14 | <p align="center"> ZRBPlays </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
-| 17 | <p align="center"> Finnifinn </p> | <p align="center"> Brock (3/6 Pokemon) </p> | <p align="center"> Yes </p> |
+| 17 | <p align="center"> Finnifinn </p> | <p align="center"> Brock (4/6 Pokemon) </p> | <p align="center"> No </p> |
 | 18 | <p align="center"> Codevelopp </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
 
 
