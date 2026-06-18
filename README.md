@@ -156,9 +156,9 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 3 | <p align="center"> AmazingSpam </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
 | 3 | <p align="center"> Slammer </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
 | | | | |
-| <p align="center">![Round](Resources/Round.PNG) </p> | <p align="center">![Two](Resources/Two.PNG) </p>| <p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p>
+| <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
-| <p align="center">![Round](Resources/Round.PNG) </p> | <p align="center">![One](Resources/One.PNG) </p>| <p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p>
+| <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![One](Resources/one.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
 | 10 | <p align="center"> BonusDay </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
 | 11 | <p align="center"> Dkamp </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
