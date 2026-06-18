@@ -163,7 +163,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 12 | <p align="center"> ZogaOak </p> | Eliminated Round 1 | ---------------- |
 | 13 | <p align="center"> Bolinbear </p> | Eliminated Round 1 | ----------------|
 | 14 | <p align="center"> UceyChimchar </p> | Eliminated Round 1 | ---------------- |
-| 15 | <p align="center"> Codevelopp </p> | <Eliminated Round 1 | ---------------- |
+| 15 | <p align="center"> Codevelopp </p> | Eliminated Round 1 | ---------------- |
 | 16 | <p align="center"> UnrealPapa </p> | Eliminated Round 1 | ---------------- |
 | 16 | <p align="center"> ZRBPlays </p> | Eliminated Round 1 | ---------------- |
 | 18 | <p align="center"> Finnifinn </p> | Eliminated Round 1 | ---------------- |
