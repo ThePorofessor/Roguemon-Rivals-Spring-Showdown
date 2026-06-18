@@ -158,15 +158,15 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | | | | |
 |<p align="center">![Line](Resources/Line.PNG) </p> |<p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p> | <p align="center">![Line](Resources/Line.PNG) </p>|
 | | | | |
-| 10 | <p align="center"> BonusDay </p> | Eliminated Round 1 | ---------------- |
-| 11 | <p align="center"> Dkamp </p> | Eliminated Round 1 | ---------------- |
-| 12 | <p align="center"> ZogaOak </p> | Eliminated Round 1 | ---------------- |
-| 13 | <p align="center"> Bolinbear </p> | Eliminated Round 1 | ----------------|
-| 14 | <p align="center"> UceyChimchar </p> | Eliminated Round 1 | ---------------- |
-| 15 | <p align="center"> Codevelopp </p> | Eliminated Round 1 | ---------------- |
-| 16 | <p align="center"> UnrealPapa </p> | Eliminated Round 1 | ---------------- |
-| 16 | <p align="center"> ZRBPlays </p> | Eliminated Round 1 | ---------------- |
-| 18 | <p align="center"> Finnifinn </p> | Eliminated Round 1 | ---------------- |
+| 10 | <p align="center"> BonusDay </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
+| 11 | <p align="center"> Dkamp </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
+| 12 | <p align="center"> ZogaOak </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
+| 13 | <p align="center"> Bolinbear </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p>
+| 14 | <p align="center"> UceyChimchar </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
+| 15 | <p align="center"> Codevelopp </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
+| 16 | <p align="center"> UnrealPapa </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
+| 16 | <p align="center"> ZRBPlays </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
+| 18 | <p align="center"> Finnifinn </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
 
 
 ---
