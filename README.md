@@ -146,17 +146,19 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center"> Mason </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
-| 2 | <p align="center"> Porofessor </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
-| 3 | <p align="center"> PixelMaster </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
-| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
-| 5 | <p align="center"> Reilnur </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
-| 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
-| 7 | <p align="center"> Roxee </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
-| 8 | <p align="center"> AmazingSpam </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
-| 9 | <p align="center"> Slammer </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 1 | <p align="center"> PixelMaster </p> | <p align="center"> Brock (2/6) - Seed 3 </p> | <p align="center"> No </p> |
+| 2 | <p align="center"> Roxee </p> | <p align="center"> Brock (1/6) - Seed 2 </p> | <p align="center"> Yes </p> |
+| 3 | <p align="center"> Mason </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 3 | <p align="center"> Porofessor </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 3 | <p align="center"> Aitchkay </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 3 | <p align="center"> Reilnur </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 3 | <p align="center"> QP_Marcel </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 3 | <p align="center"> AmazingSpam </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 3 | <p align="center"> Slammer </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
 | | | | |
-|<p align="center">![Line](Resources/Line.PNG) </p> |<p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p> | <p align="center">![Line](Resources/Line.PNG) </p>|
+| <p align="center">![Round](Resources/Round.PNG) </p> | <p align="center">![Two](Resources/Two.PNG) </p>| <p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p>
+| | | | |
+| <p align="center">![Round](Resources/Round.PNG) </p> | <p align="center">![One](Resources/One.PNG) </p>| <p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p>
 | | | | |
 | 10 | <p align="center"> BonusDay </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
 | 11 | <p align="center"> Dkamp </p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ---------------- </p> |
