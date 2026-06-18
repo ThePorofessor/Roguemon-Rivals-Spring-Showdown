@@ -158,7 +158,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | | | | |
 |<p align="center">![Line](Resources/Line.PNG) </p> |<p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p> | <p align="center">![Line](Resources/Line.PNG) </p>|
 | | | | |
-| 10 | <p align="center"> BonusDay </p> | <p align="center"> Misty (3/6 Pokemon) </p> | <p align="center"> Yes </p> |
+| 10 | <p align="center"> BonusDay </p> | <p align="center"> Misty (3/6 Pokemon) </p> | <p align="center"> No </p> |
 | 11 | <p align="center"> Dkamp </p> | <p align="center"> Rival 3 (3/4 Pokemon) </p> | <p align="center"> No </p> |
 | 12 | <p align="center"> ZogaOak </p> | <p align="center"> Rival 3 (0/4 Pokemon) </p> | <p align="center"> No </p> |
 | 13 | <p align="center"> Bolinbear </p> | <p align="center"> Mt Moon (9/12 Trainers) </p> | <p align="center"> No </p> |
