@@ -146,27 +146,27 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center"> Mason </p> | <p align="center"> Blaine (1/6) </p> | <p align="center"> Yes </p> |
-| 2 | <p align="center"> Porofessor </p> | <p align="center"> Silph Co (11/21 Trainers) </p> | <p align="center"> Yes </p> |
-| 3 | <p align="center"> PixelMaster </p> | <p align="center"> Koga (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
-| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Erika (4/8 Trainers) </p> | <p align="center"> No </p> |
-| 5 | <p align="center"> Reilnur </p> | <p align="center"> Rock Tunnel (2/19 Trainers) </p> | <p align="center"> No </p> |
-| 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Surge (4/6 Pokemon) </p> | <p align="center"> No </p> |
-| 7 | <p align="center"> Roxee </p> | <p align="center"> Misty (5/6 Pokemon - Seed 9) </p> | <p align="center"> No </p> |
-| 8 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (5/6 Pokemon - Seed 34) </p> | <p align="center"> Yes </p> |
-| 9 | <p align="center"> Slammer </p> | <p align="center"> Misty (5/6 Pokemon - Seed 41) </p> | <p align="center"> Yes </p> |
+| 1 | <p align="center"> Mason </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 2 | <p align="center"> Porofessor </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 3 | <p align="center"> PixelMaster </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 5 | <p align="center"> Reilnur </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 7 | <p align="center"> Roxee </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 8 | <p align="center"> AmazingSpam </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
+| 9 | <p align="center"> Slammer </p> | <p align="center"> Lab </p> | <p align="center"> Yes </p> |
 | | | | |
 |<p align="center">![Line](Resources/Line.PNG) </p> |<p align="center">![Elimination](Resources/Elimination.PNG) </p> |<p align="center">![Threshold](Resources/Threshold.PNG) </p> | <p align="center">![Line](Resources/Line.PNG) </p>|
 | | | | |
-| 10 | <p align="center"> BonusDay </p> | <p align="center"> Misty (3/6 Pokemon) </p> | <p align="center"> No </p> |
-| 11 | <p align="center"> Dkamp </p> | <p align="center"> Rival 3 (3/4 Pokemon) </p> | <p align="center"> No </p> |
-| 12 | <p align="center"> ZogaOak </p> | <p align="center"> Rival 3 (0/4 Pokemon) </p> | <p align="center"> No </p> |
-| 13 | <p align="center"> Bolinbear </p> | <p align="center"> Mt Moon (9/12 Trainers) </p> | <p align="center"> No </p> |
-| 14 | <p align="center"> UceyChimchar </p> | <p align="center"> Mt Moon (2/12 Trainers) </p> | <p align="center"> No </p> |
-| 15 | <p align="center"> Codevelopp </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> Yes </p> |
-| 15 | <p align="center"> UnrealPapa </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> No </p> |
-| 15 | <p align="center"> ZRBPlays </p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> No </p> |
-| 18 | <p align="center"> Finnifinn </p> | <p align="center"> Brock (4/6 Pokemon) </p> | <p align="center"> No </p> |
+| 10 | <p align="center"> BonusDay </p> | Eliminated Round 1 | ---------------- |
+| 11 | <p align="center"> Dkamp </p> | Eliminated Round 1 | ---------------- |
+| 12 | <p align="center"> ZogaOak </p> | Eliminated Round 1 | ---------------- |
+| 13 | <p align="center"> Bolinbear </p> | Eliminated Round 1 | ----------------|
+| 14 | <p align="center"> UceyChimchar </p> | Eliminated Round 1 | ---------------- |
+| 15 | <p align="center"> Codevelopp </p> | <Eliminated Round 1 | ---------------- |
+| 16 | <p align="center"> UnrealPapa </p> | Eliminated Round 1 | ---------------- |
+| 16 | <p align="center"> ZRBPlays </p> | Eliminated Round 1 | ---------------- |
+| 18 | <p align="center"> Finnifinn </p> | Eliminated Round 1 | ---------------- |
 
 
 ---
