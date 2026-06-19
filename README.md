@@ -207,7 +207,15 @@ A penalty modifier increases your overall seed count if a specific condition is 
   
 | Player 1 | Favorite Picks | Universal Picks |
 |:---:|---|---|
-| | | |
+| Aitchkay | | |
+| AmazingSpam | <p align="center">![Larvesta](Resources/Larvesta.png) ![Litleo](Resources/Litleo.png) ![Ponyta](Resources/Ponyta.png) ![Vulpix](Resources/Vulpix.png) ![Litwick](Resources/Litwick.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
+| PixelMaster | <p align="center">![Larvesta](Resources/Larvesta.png) ![Salandit](Resources/Salandit.png) ![Vulpix](Resources/Vulpix.png) ![Pansear](Resources/Pansear.png) ![Darumaka](Resources/Darumaka.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
+| Mason | <p align="center">![Larvesta](Resources/Larvesta.png) ![Litleo](Resources/Litleo.png) ![Ponyta](Resources/Ponyta.png) ![Darumaka](Resources/Darumaka.png) ![Salandit](Resources/Salandit.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
+| Porofessor | <p align="center">![Houndour](Resources/Houndour.png) ![Pansear](Resources/Pansear.png) ![Litleo](Resources/Litleo.png) ![Sizzlipede](Resources/Sizzlipede.png) ![Darumaka](Resources/Darumaka.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
+| QP_Marcel | <p align="center">![Larvesta](Resources/Larvesta.png) ![Ponyta](Resources/Ponyta.png) ![Magby](Resources/Magby.png) ![Salandit](Resources/Salandit.png) ![Vulpix](Resources/Vulpix.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
+| Reilnur | | |
+| Roxee | <p align="center">![Ponyta](Resources/Ponyta.png) ![Houndour](Resources/Houndour.png) ![Litleo](Resources/Litleo.png) ![Salandit](Resources/Salandit.png) ![Pansear](Resources/Pansear.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
+| Slammer | <p align="center">![Houndour](Resources/Houndour.png) ![Ponyta](Resources/Ponyta.png) ![Litleo](Resources/Litleo.png) ![Darumaka](Resources/Darumaka.png) ![Salandit](Resources/Salandit.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 
 </details>
 
