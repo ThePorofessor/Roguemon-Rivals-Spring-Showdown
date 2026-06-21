@@ -121,20 +121,20 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Name | How To Watch | Tournament Status |
 |:---:|---|---|
-| <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 1</p> |
-| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 1</p> |
+| <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 2</p> |
+| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 2</p> |
 | <p align="center">Bolinbear</p> | <p align="center">[Twitch](https://www.twitch.tv/bolinbear)</p> | <p align="center">Round 1</p> |
 | <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1</p> |
 | <p align="center">Codevelopp</p> | <p align="center">[Twitch](https://www.twitch.tv/codevelopp)</p> | <p align="center">Round 1</p> |
 | <p align="center">Finnifinn</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
 | <p align="center">just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1</p> |
-| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 1</p> |
-| <p align="center">PixelMaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 1</p> |
-| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 1</p> |
-| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 1</p> |
-| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 1</p> |
-| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 1</p> |
-| <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 1</p> |
+| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 2</p> |
+| <p align="center">PixelMaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 2</p> |
+| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 2</p> |
+| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 2</p> |
+| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 2</p> |
+| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 2</p> |
+| <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 2</p> |
 | <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1</p> |
 | <p align="center">UnrealPapa | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1</p> |
 | <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 1</p> |
