@@ -147,8 +147,8 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
 | 1 | <p align="center"> QP_Marcel </p> | <p align="center"> Erika (5/6 Pokemon) - Seed 27 </p> | <p align="center"> No </p> |
-| 3 | <p align="center"> Mason </p> | <p align="center"> Misty+ </p> | <p align="center">  40 Seeds </p> |
-| 2 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (1/6 Pokemon) - Seed 14 </p> | <p align="center"> 30 Seeds </p> |
+| 3 | <p align="center"> Mason </p> | <p align="center"> Rock Tunnel </p> | <p align="center">  40 Seeds </p> |
+| 2 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (1/6 Pokemon) - Seed 14 </p> | <p align="center"> 28 Seeds </p> |
 | 4 | <p align="center"> Reilnur </p> | <p align="center"> Route 24 & 25 (11/ 16 Trainers) - Seed 5 </p> | <p align="center"> 25 Seeds </p> |
 | 5 | <p align="center"> Porofessor </p> | <p align="center"> Route 24 & 25 (9/16 Trainers) - Seed 5 </p> | <p align="center"> 30 Seeds </p> |
 | | | | |
