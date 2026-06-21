@@ -121,24 +121,24 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Name | How To Watch | Tournament Status |
 |:---:|---|---|
-| <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 2</p> |
-| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 2</p> |
-| <p align="center">Bolinbear</p> | <p align="center">[Twitch](https://www.twitch.tv/bolinbear)</p> | <p align="center">Round 1</p> |
-| <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1</p> |
-| <p align="center">Codevelopp</p> | <p align="center">[Twitch](https://www.twitch.tv/codevelopp)</p> | <p align="center">Round 1</p> |
-| <p align="center">Finnifinn</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1</p> |
-| <p align="center">just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1</p> |
-| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 2</p> |
-| <p align="center">PixelMaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 2</p> |
-| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 2</p> |
-| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 2</p> |
-| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 2</p> |
-| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 2</p> |
-| <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 2</p> |
-| <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1</p> |
-| <p align="center">UnrealPapa | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1</p> |
-| <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 1</p> |
-| <p align="center">ZRBPlays</p> | <p align="center">[Twitch](https://www.twitch.tv/zrbplaystv)</p> | <p align="center">Round 1</p> |
+| <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 2 - Running</p> |
+| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 2 - Running </p> |
+| <p align="center">Bolinbear</p> | <p align="center">[Twitch](https://www.twitch.tv/bolinbear)</p> | <p align="center">Round 1 - Eliminated</p> |
+| <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1 - Eliminated </p> |
+| <p align="center">Codevelopp</p> | <p align="center">[Twitch](https://www.twitch.tv/codevelopp)</p> | <p align="center">Round 1 - Eliminated </p> |
+| <p align="center">Finnifinn</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1 - Eliminated </p> |
+| <p align="center">just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1 - Eliminated </p> |
+| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 2 - Running </p> |
+| <p align="center">PixelMaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 2 - Out of Seeds</p> |
+| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 2 - Running </p> |
+| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 2 - Out of Seeds</p> |
+| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 2 - Running</p> |
+| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 2 - Out of Seeds</p> |
+| <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 2 - Running</p> |
+| <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1 - Eliminated </p> |
+| <p align="center">UnrealPapa | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1 - Eliminated </p> |
+| <p align="center">ZogaOak</p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> | <p align="center">Round 1 - Eliminated </p> |
+| <p align="center">ZRBPlays</p> | <p align="center">[Twitch](https://www.twitch.tv/zrbplaystv)</p> | <p align="center">Round 1 - Eliminated </p> |
 
 ---
 
@@ -214,7 +214,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Mason | <p align="center">![Larvesta](Resources/Larvesta.png) ![Litleo](Resources/Litleo.png) ![Ponyta](Resources/Ponyta.png) ![Darumaka](Resources/Darumaka.png) ![Salandit](Resources/Salandit.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 | Porofessor | <p align="center">![Houndour](Resources/Houndour.png) ![Pansear](Resources/Pansear.png) ![Litleo](Resources/Litleo.png) ![Sizzlipede](Resources/Sizzlipede.png) ![Darumaka](Resources/Darumaka.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 | QP_Marcel | <p align="center">![Larvesta](Resources/Larvesta.png) ![Ponyta](Resources/Ponyta.png) ![Magby](Resources/Magby.png) ![Salandit](Resources/Salandit.png) ![Vulpix](Resources/Vulpix.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
-| Reilnur | | |
+| Reilnur | <p align="center">![Magby](Resources/Magby.png) ![Ponyta](Resources/Ponyta.png) ![Litleo](Resources/Litleo.png) ![Pansear](Resources/Pansear.png) ![Litwick](Resources/Litwick.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 | Roxee | <p align="center">![Ponyta](Resources/Ponyta.png) ![Houndour](Resources/Houndour.png) ![Litleo](Resources/Litleo.png) ![Salandit](Resources/Salandit.png) ![Pansear](Resources/Pansear.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 | Slammer | <p align="center">![Houndour](Resources/Houndour.png) ![Ponyta](Resources/Ponyta.png) ![Litleo](Resources/Litleo.png) ![Darumaka](Resources/Darumaka.png) ![Salandit](Resources/Salandit.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 
