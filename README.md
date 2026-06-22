@@ -147,14 +147,14 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
 | 1 | <p align="center"> Aitchkay </p> | <p align="center"> Silph Co (3/32 Trainers) - Seed 21 </p> | <p align="center"> 37 Seeds </p> |
-| 2 | <p align="center"> Porofessor </p> | <p align="center"> Game Corner - Seed 44 </p> | <p align="center"> 30 Seeds </p> |
+| 2 | <p align="center"> Porofessor </p> | <p align="center"> Game Corner (Ongoing) - Seed 44 </p> | <p align="center"> 6 Seeds </p> |
 | 3 | <p align="center"> QP_Marcel </p> | <p align="center"> Erika (5/6 Pokemon) - Seed 27 </p> | <p align="center"> No </p> |
-| 4 | <p align="center"> Mason </p> | <p align="center"> Rock Tunnel </p> | <p align="center">  40 Seeds </p> |
-| 5 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (1/6 Pokemon) - Seed 14 </p> | <p align="center"> 28 Seeds </p> |
+| 4 | <p align="center"> Mason </p> | <p align="center"> Rock Tunnel (Ongoing) - Seed 10 </p> | <p align="center">  40 Seeds </p> |
+| 5 | <p align="center"> Reilnur </p> | <p align="center"> Route 6 & 11 (Ongoing) - Seed 48 </p> | <p align="center"> 2 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
-| 6 | <p align="center"> Reilnur </p> | <p align="center"> Route 24 & 25 (11/ 16 Trainers) - Seed 5 </p> | <p align="center"> 25 Seeds </p> |
+| 6 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (1/6 Pokemon) - Seed 14 </p> | <p align="center"> 28 Seeds </p> |
 | 7 | <p align="center"> Roxee </p> | <p align="center"> Rival 3 (0/4 Pokemon) - Seed 30 </p> | <p align="center"> No </p> |
 | 8 | <p align="center"> PixelMaster </p> | <p align="center"> Brock (2/6 Pokemon) - Seed 3 </p> | <p align="center"> No </p> |
 | 9 | <p align="center"> Slammer </p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
