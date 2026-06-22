@@ -146,8 +146,8 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center"> Mason </p> | <p align="center"> Gio (3/9 Trainers) - Seed 10 </p> | <p align="center">  40 Seeds </p> |
-| 2 | <p align="center"> Slammer </p> | <p align="center"> Sabrina (Ongoing) - Seed 12 </p> | <p align="center"> 38 Seeds </p> |
+| 1 | <p align="center"> Slammer </p> | <p align="center"> Gio (4/6 Pokemon) - Seed 12 </p> | <p align="center"> 38 Seeds </p> |
+| 2 | <p align="center"> Mason </p> | <p align="center"> Gio (3/9 Trainers) - Seed 10 </p> | <p align="center">  40 Seeds </p> |
 | 3 | <p align="center"> Reilnur </p> | <p align="center"> Silph Co (13/32 Trainers) - Seed 48 </p> | <p align="center"> No </p> |
 | 4 | <p align="center"> Aitchkay </p> | <p align="center"> Silph Co (3/32 Trainers) - Seed 21 </p> | <p align="center"> 29 Seeds </p> |
 | 5 | <p align="center"> Porofessor </p> | <p align="center"> Game Corner (Ongoing) - Seed 44 </p> | <p align="center"> 6 Seeds </p> |
