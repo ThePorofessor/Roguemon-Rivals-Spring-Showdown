@@ -148,13 +148,13 @@ A penalty modifier increases your overall seed count if a specific condition is 
 |:---:|---|---|---|
 | 1 | <p align="center"> Mason </p> | <p align="center"> Gio (3/9 Trainers) - Seed 10 </p> | <p align="center">  40 Seeds </p> |
 | 2 | <p align="center"> Slammer </p> | <p align="center"> Sabrina (Ongoing) - Seed 12 </p> | <p align="center"> 38 Seeds </p> |
-| 3 | <p align="center"> Aitchkay </p> | <p align="center"> Silph Co (3/32 Trainers) - Seed 21 </p> | <p align="center"> 29 Seeds </p> |
-| 4 | <p align="center"> Porofessor </p> | <p align="center"> Game Corner (Ongoing) - Seed 44 </p> | <p align="center"> 6 Seeds </p> |
-| 5 | <p align="center"> QP_Marcel </p> | <p align="center"> Erika (5/6 Pokemon) - Seed 27 </p> | <p align="center"> No </p> |
+| 3 | <p align="center"> Reilnur </p> | <p align="center"> Silph Co (13/32 Trainers) - Seed 48 </p> | <p align="center"> No </p> |
+| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Silph Co (3/32 Trainers) - Seed 21 </p> | <p align="center"> 29 Seeds </p> |
+| 5 | <p align="center"> Porofessor </p> | <p align="center"> Game Corner (Ongoing) - Seed 44 </p> | <p align="center"> 6 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
-| 6 | <p align="center"> Reilnur </p> | <p align="center"> Route 6 & 11 (Ongoing) - Seed 48 </p> | <p align="center"> 2 Seeds </p> |
+| 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Erika (5/6 Pokemon) - Seed 27 </p> | <p align="center"> No </p> |
 | 7 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (1/6 Pokemon) - Seed 14 </p> | <p align="center"> 28 Seeds </p> |
 | 8 | <p align="center"> Roxee </p> | <p align="center"> Rival 3 (0/4 Pokemon) - Seed 30 </p> | <p align="center"> No </p> |
 | 9 | <p align="center"> PixelMaster </p> | <p align="center"> Brock (2/6 Pokemon) - Seed 3 </p> | <p align="center"> No </p> |
