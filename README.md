@@ -155,7 +155,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
 | 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Erika (5/6 Pokemon) - Seed 27 </p> | <p align="center"> No </p> |
-| 7 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (1/6 Pokemon) - Seed 14 </p> | <p align="center"> 28 Seeds </p> |
+| 7 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (1/6 Pokemon) - Seed 14 </p> | <p align="center"> No </p> |
 | 8 | <p align="center"> Roxee </p> | <p align="center"> Rival 3 (0/4 Pokemon) - Seed 30 </p> | <p align="center"> No </p> |
 | 9 | <p align="center"> PixelMaster </p> | <p align="center"> Brock (2/6 Pokemon) - Seed 3 </p> | <p align="center"> No </p> |
 | | | | |
