@@ -121,19 +121,19 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Name | How To Watch | Tournament Status |
 |:---:|---|---|
-| <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 2 - Running</p> |
-| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 2 - Running </p> |
+| <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> | <p align="center">Round 3 - Running</p> |
+| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> | <p align="center">Round 2 - Eliminated </p> |
 | <p align="center">Bolinbear</p> | <p align="center">[Twitch](https://www.twitch.tv/bolinbear)</p> | <p align="center">Round 1 - Eliminated</p> |
 | <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> | <p align="center">Round 1 - Eliminated </p> |
 | <p align="center">Codevelopp</p> | <p align="center">[Twitch](https://www.twitch.tv/codevelopp)</p> | <p align="center">Round 1 - Eliminated </p> |
 | <p align="center">Finnifinn</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> | <p align="center">Round 1 - Eliminated </p> |
 | <p align="center">just_Dkamp</p> | <p align="center">[Twitch](https://www.twitch.tv/just_dkamp)</p> | <p align="center">Round 1 - Eliminated </p> |
-| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 2 - Running </p> |
-| <p align="center">PixelMaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 2 - Out of Seeds</p> |
-| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 2 - Running </p> |
-| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 2 - Out of Seeds</p> |
-| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 2 - Running</p> |
-| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 2 - Out of Seeds</p> |
+| <p align="center">Mason</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> | <p align="center">Round 3 - Running </p> |
+| <p align="center">PixelMaster</p> | <p align="center">[Twitch](https://www.twitch.tv/pixelmaster113)</p> | <p align="center">Round 2 - Eliminated </p> |
+| <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> | <p align="center">Round 3 - Running </p> |
+| <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> | <p align="center">Round 2 - Eliminated </p> |
+| <p align="center">Reilnur</p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> | <p align="center">Round 3 - Out of Seeds </p> |
+| <p align="center">Roxee</p> | <p align="center">[Twitch](https://www.twitch.tv/roxee94)</p> | <p align="center">Round 2 - Eliminated </p> |
 | <p align="center">Slammer</p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> | <p align="center">Round 2 - Running</p> |
 | <p align="center">UceyChimchar</p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> | <p align="center">Round 1 - Eliminated </p> |
 | <p align="center">UnrealPapa | <p align="center">[Twitch](https://www.twitch.tv/unrealpapa)</p> | <p align="center">Round 1 - Eliminated </p> |
@@ -146,18 +146,18 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center"> Slammer </p> | <p align="center"> Gio (4/6 Pokemon) - Seed 12 </p> | <p align="center"> 38 Seeds </p> |
-| 2 | <p align="center"> Mason </p> | <p align="center"> Gio (3/9 Trainers) - Seed 10 </p> | <p align="center">  40 Seeds </p> |
-| 3 | <p align="center"> Porofessor </p> | <p align="center"> Silph Co (31/32 Trainers) - Seed 44 </p> | <p align="center"> 6 Seeds </p> |
-| 4 | <p align="center"> Reilnur </p> | <p align="center"> Silph Co (13/32 Trainers) - Seed 48 </p> | <p align="center"> No </p> |
-| 5 | <p align="center"> Aitchkay </p> | <p align="center"> Silph Co (3/32 Trainers) - Seed 21 </p> | <p align="center"> 29 Seeds </p> |
+| 1 | <p align="center"> Reilnur </p> | <p align="center"> Koga (2/6 Pokemon) - Seed 11 </p> | <p align="center"> No </p> |
+| 2 | <p align="center"> Slammer </p> | <p align="center"> Surge (2/4 Trainers) - Seed 20 </p> | <p align="center"> 30 Seeds </p> |
+| 3 | <p align="center"> Porofessor </p> | <p align="center"> Rival 3 (3/4 Pokemon) Seed 20 </p> | <p align="center"> 25 Seeds </p> |
+| 4 | <p align="center"> Mason </p> | <p align="center"> Lab </p> | <p align="center">  50 Seeds </p> |
+| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Lab </p> | <p align="center"> 59 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
-| 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Erika (5/6 Pokemon) - Seed 27 </p> | <p align="center"> No </p> |
-| 7 | <p align="center"> AmazingSpam </p> | <p align="center"> Misty (1/6 Pokemon) - Seed 14 </p> | <p align="center"> No </p> |
-| 8 | <p align="center"> Roxee </p> | <p align="center"> Rival 3 (0/4 Pokemon) - Seed 30 </p> | <p align="center"> No </p> |
-| 9 | <p align="center"> PixelMaster </p> | <p align="center"> Brock (2/6 Pokemon) - Seed 3 </p> | <p align="center"> No </p> |
+| 6 | <p align="center"> QP_Marcel </p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ---------------- </p> |
+| 7 | <p align="center"> AmazingSpam </p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ---------------- </p> |
+| 8 | <p align="center"> Roxee </p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ---------------- </p> |
+| 9 | <p align="center"> PixelMaster </p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ---------------- </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![One](Resources/one.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
@@ -208,7 +208,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
   
 | Player 1 | Favorite Picks | Universal Picks |
 |:---:|---|---|
-| Aitchkay | | |
+| Aitchkay | <p align="center">![Ponyta](Resources/Ponyta.png) ![Litwick](Resources/Litwick.png) ![Darumaka](Resources/Darumaka.png) ![Sizzlipede](Resources/Sizzlipede.png) ![Salandit](Resources/Salandit.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 | AmazingSpam | <p align="center">![Larvesta](Resources/Larvesta.png) ![Litleo](Resources/Litleo.png) ![Ponyta](Resources/Ponyta.png) ![Vulpix](Resources/Vulpix.png) ![Litwick](Resources/Litwick.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 | PixelMaster | <p align="center">![Larvesta](Resources/Larvesta.png) ![Salandit](Resources/Salandit.png) ![Vulpix](Resources/Vulpix.png) ![Pansear](Resources/Pansear.png) ![Darumaka](Resources/Darumaka.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
 | Mason | <p align="center">![Larvesta](Resources/Larvesta.png) ![Litleo](Resources/Litleo.png) ![Ponyta](Resources/Ponyta.png) ![Darumaka](Resources/Darumaka.png) ![Salandit](Resources/Salandit.png) </p> | ![Charcadet](Resources/Charcadet.png) ![Numel](Resources/Numel.png) ![GrowlitheH](Resources/GrowlitheH.png) | </p>
@@ -227,7 +227,11 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | Player 1 | Favorite Picks | Universal Picks |
 |:---:|---|---|
 | | | |
-
+| Aitchkay | | |
+| Mason | | |
+| Porofessor | <p align="center">![Cutiefly](Resources/Cutiefly.png) ![Grubbin](Resources/Grubbin.png) ![Ledyba](Resources/Ledyba.png) ![Sewaddle](Resources/Sewaddle.png) ![Shelmet](Resources/Shelmet.png) ![Venipede](Resources/Venipede.png) </p> | ![Yanma](Resources/Yanma.png) ![Sizzlipede](Resources/Sizzlipede.png) ![Joltik](Resources/Joltik.png) ![Wimpod](Resources/Wimpod.png) | </p>
+| Reilnur | <p align="center">![Cutiefly](Resources/Cutiefly.png) ![Nincada](Resources/Nincada.png) ![Ledyba](Resources/Ledyba.png) ![Spinarak](Resources/Spinarak.png) ![Surskit](Resources/Surskit.png) ![Weedle](Resources/Weedle.png) </p> | ![Yanma](Resources/Yanma.png) ![Sizzlipede](Resources/Sizzlipede.png) ![Joltik](Resources/Joltik.png) ![Wimpod](Resources/Wimpod.png) | </p>
+| Slammer | <p align="center">![Grubbin](Resources/Grubbin.png) ![Tarountula](Resources/Tarountula.png) ![Ledyba](Resources/Ledyba.png) ![Venipede](Resources/Venipede.png) ![Venonat](Resources/Venonat.png) ![Weedle](Resources/Weedle.png) </p> | ![Yanma](Resources/Yanma.png) ![Sizzlipede](Resources/Sizzlipede.png) ![Joltik](Resources/Joltik.png) ![Wimpod](Resources/Wimpod.png) | </p>
 </details>
 
 <h1 align="center">RESOURCES</h1>
