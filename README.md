@@ -226,7 +226,6 @@ A penalty modifier increases your overall seed count if a specific condition is 
   
 | Player 1 | Favorite Picks | Universal Picks |
 |:---:|---|---|
-| | | |
 | Aitchkay | | |
 | Mason | | |
 | Porofessor | <p align="center">![Cutiefly](Resources/Cutiefly.png) ![Grubbin](Resources/Grubbin.png) ![Ledyba](Resources/Ledyba.png) ![Sewaddle](Resources/Sewaddle.png) ![Shelmet](Resources/Shelmet.png) ![Venipede](Resources/Venipede.png) </p> | ![Yanma](Resources/Yanma.png) ![Sizzlipede](Resources/Sizzlipede.png) ![Joltik](Resources/Joltik.png) ![Wimpod](Resources/Wimpod.png) | </p>
