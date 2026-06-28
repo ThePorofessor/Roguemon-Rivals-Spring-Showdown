@@ -150,7 +150,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 | 2 | <p align="center"> Slammer </p> | <p align="center"> Surge (2/4 Trainers) - Seed 20 </p> | <p align="center"> 30 Seeds </p> |
 | 3 | <p align="center"> Porofessor </p> | <p align="center"> Rival 3 (3/4 Pokemon) Seed 20 </p> | <p align="center"> 25 Seeds </p> |
 | 4 | <p align="center"> Mason </p> | <p align="center"> Lab </p> | <p align="center">  50 Seeds </p> |
-| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Lab </p> | <p align="center"> 59 Seeds </p> |
+| 4 | <p align="center"> Aitchkay </p> | <p align="center"> Lab </p> | <p align="center"> 50 Seeds </p> |
 | | | | |
 | <p align="center">![Round](Resources/round.PNG) </p> | <p align="center">![Two](Resources/two.PNG) </p>| <p align="center">![Elimination](Resources/elimination.PNG) </p> |<p align="center">![Threshold](Resources/threshold.PNG) </p>
 | | | | |
